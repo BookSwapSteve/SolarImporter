@@ -1,0 +1,33 @@
+﻿{
+  "system_id": 1173801,
+  "siteStatus": "power",
+  "weather": {
+    "temperature": {
+      "value": 61,
+      "min": null,
+      "max": null,
+      "display": "61°F",
+      "unit": "°F"
+    },
+    "date": "2018-05-23",
+    "station": "KIDSANDP21",
+    "code": "pws",
+    "url": "https://www.wunderground.com/personal-weather-station/dashboard?ID=KIDSANDP21",
+    "string": "Personal Weather Station"
+  },
+  "pending": null,
+  "start_date": "2018-05-23",
+  "end_date": "2018-05-23",
+  "stats": [
+    {
+      "production": [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 0, 0, 0, 0, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+      "start_time": 1527058800,
+      "interval_length": 900
+    }
+  ],
+  "statusDetails": {
+    "reason": null,
+    "errorCount": 1,
+    "totalCount": 5
+  }
+}
